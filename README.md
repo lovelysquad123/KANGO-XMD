@@ -3,7 +3,7 @@
 <img align="center" height="auto"
 src="https://i.imgur.com/GVW7aoD.jpeg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=L+O+V+E+L+Y+X+M+D+▇)](https://git.io/typing-svg)
 <br>
 
    </p>
@@ -31,13 +31,13 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `KANGO-XMD INSTALLATION`
+## 🛠️ `LOVELY-XMD INSTALLATION`
 
 
 
 1. Fork and star this repo first
 
-Click the button below to fork KANGO-XMD Repository to your GitHub account:
+Click the button below to fork LOVELY-XMD Repository to your GitHub account:
 
   <br>
     <p align="left">
@@ -71,7 +71,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` KANGO-XMD Repository or `sync` if you had forked.
+* `Fork` LOVELY-XMD Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -82,7 +82,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search KANGO-XMD, and connect.
+* Search LOVELY-XMD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -200,7 +200,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© KANGO Bot**
+**© LOVELY Bot**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
